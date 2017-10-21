@@ -11,7 +11,7 @@ menu:
   Archives: /archives/
   #随笔: /tags/随笔
   Tags: /tags/
-  About: /about/
+  #About: /about/
 
 # Link to your avatar | 填写头像地址
 avatar: /img/avatar.png
@@ -28,7 +28,8 @@ favicon: /favicon.png
 ## If your site' url is 'http://yoursite.com/blog', set root_url as '/blog/'
 ## 网站若存放在子目录，请按上面格式填写
 ## https://hexo.io/docs/configuration.html#URL
-root_url: https://rafu-life.netlify.com
+root_url: 
+#https://rafu-life.netlify.com
 
 # Year of Site Creation | 网站成立年份
 since: 2017
@@ -60,7 +61,7 @@ subnav:
   #Quora: ""
   #Facebook: "#"
   #Google: "#"
-  Twitter: "0rafu0"
+  Twitter: "https://twitter.com/0rafu0"
   #LinkedIn: "#"
   #QQ: "#"
   #微信: "Wechat"
